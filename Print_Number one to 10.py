@@ -1,9 +1,9 @@
-print("Enter a number:")
-num = int(input())
+
+num = int(10)
 
 i = 1
 while i <= num:
     print(i)
     i += 1
 
-print("end")
+
